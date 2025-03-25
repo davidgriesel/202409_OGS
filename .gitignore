@@ -18,3 +18,120 @@
 03 - Scripts/99 - Visualisations.ipynb
 03 - Scripts/99 - Integration (departments).ipynb
 03 - Scripts/99 - Visualisations -CrossProfiles.ipynb
+04 - Analysis/Visualisations/Orders/3.1_orders_dow.png
+04 - Analysis/Visualisations/Orders/3.2_orders_hod.png
+04 - Analysis/Visualisations/Orders/3.3_orders_hodow_area.png
+04 - Analysis/Visualisations/Orders/3.4_orders_hodow_heat.png
+04 - Analysis/Visualisations/Orders/3.5_orders_hodow.png
+04 - Analysis/Visualisations/Orders/4.1.1_orders_activity_dow.png
+04 - Analysis/Visualisations/Orders/4.1.2_orders_activity_hod.png
+04 - Analysis/Visualisations/Orders/4.2.1_orders_spending_dow.png
+04 - Analysis/Visualisations/Orders/4.2.2_orders_spending_hod.png
+04 - Analysis/Visualisations/Orders/4.3.1_orders_frequency_dow.png
+04 - Analysis/Visualisations/Orders/4.3.2_orders_frequency_hod.png
+04 - Analysis/Visualisations/Orders/4.4.1_orders_loyalty_dow.png
+04 - Analysis/Visualisations/Orders/4.4.2_orders_loyalty_hod.png
+04 - Analysis/Visualisations/Orders/4.5.1_orders_region_dow.png
+04 - Analysis/Visualisations/Orders/4.5.2_orders_region_hod.png
+04 - Analysis/Visualisations/Orders/4.6.1_orders_age_dow.png
+04 - Analysis/Visualisations/Orders/4.6.2_orders_age_hod.png
+04 - Analysis/Visualisations/Orders/4.7.1_orders_income_dow.png
+04 - Analysis/Visualisations/Orders/4.7.2_orders_income_hod.png
+04 - Analysis/Visualisations/Orders/4.8.1_orders_family_dow.png
+04 - Analysis/Visualisations/Orders/4.8.2_orders_family_hod.png
+04 - Analysis/Visualisations/Prices/3.1_price_dist_inv.png
+04 - Analysis/Visualisations/Prices/3.1_price_dist_inv_box.png
+04 - Analysis/Visualisations/Prices/3.2_price_dist_sales.png
+04 - Analysis/Visualisations/Prices/3.2_price_dist_sales_box.png
+04 - Analysis/Visualisations/Prices/3.3_price_dist_dow.png
+04 - Analysis/Visualisations/Prices/3.4_price_dist_hod.png
+04 - Analysis/Visualisations/Prices/3.5_price_dist_department.png
+04 - Analysis/Visualisations/Prices/3.6_price_dist_category.png
+04 - Analysis/Visualisations/Products/3.1_departments.png
+04 - Analysis/Visualisations/Products/3.2_categories.png
+04 - Analysis/Visualisations/Products/4.1.1_orders_departments_activity.png
+04 - Analysis/Visualisations/Products/4.1.2_orders_categories_activity.png
+04 - Analysis/Visualisations/Products/4.2.1_orders_departments_spending.png
+04 - Analysis/Visualisations/Products/4.2.2_orders_categories_spending.png
+04 - Analysis/Visualisations/Products/4.3.1_orders_departments_frequency.png
+04 - Analysis/Visualisations/Products/4.3.2_orders_categories_frequency.png
+04 - Analysis/Visualisations/Products/4.4.1_orders_departments_loyalty.png
+04 - Analysis/Visualisations/Products/4.4.2_orders_categories_loyalty.png
+04 - Analysis/Visualisations/Products/4.5.1_departments_region.png
+04 - Analysis/Visualisations/Products/4.5.2_categories_region.png
+04 - Analysis/Visualisations/Products/4.6.1_departments_age.png
+04 - Analysis/Visualisations/Products/4.6.2_categories_age.png
+04 - Analysis/Visualisations/Products/4.7.1_departments_income.png
+04 - Analysis/Visualisations/Products/4.7.2_categories_income.png
+04 - Analysis/Visualisations/Products/4.8.1_departments_family.png
+04 - Analysis/Visualisations/Products/4.8.2_categories_family.png
+04 - Analysis/Visualisations/Profile/3.1.1_activity_profile.png
+04 - Analysis/Visualisations/Profile/3.1.2_activity_orders.png
+04 - Analysis/Visualisations/Profile/3.1.3_activity_days.png
+04 - Analysis/Visualisations/Profile/3.1.4_activity_hours.png
+04 - Analysis/Visualisations/Profile/3.1.5_activity_price.png
+04 - Analysis/Visualisations/Profile/3.2.1_spending_profile.png
+04 - Analysis/Visualisations/Profile/3.2.2_spending_orders.png
+04 - Analysis/Visualisations/Profile/3.2.3_spending_days.png
+04 - Analysis/Visualisations/Profile/3.2.4_spending_hours.png
+04 - Analysis/Visualisations/Profile/3.2.5_spending_price.png
+04 - Analysis/Visualisations/Profile/3.3.1_frequency_profile.png
+04 - Analysis/Visualisations/Profile/3.3.2_frequency_orders.png
+04 - Analysis/Visualisations/Profile/3.3.3_frequency_days.png
+04 - Analysis/Visualisations/Profile/3.3.4_frequency_hours.png
+04 - Analysis/Visualisations/Profile/3.3.5_frequency_price.png
+04 - Analysis/Visualisations/Profile/3.4.1_loyalty_profile.png
+04 - Analysis/Visualisations/Profile/3.4.2_loyalty_orders.png
+04 - Analysis/Visualisations/Profile/3.4.3_loyalty.days.png
+04 - Analysis/Visualisations/Profile/3.4.4_loyalty.hours.png
+04 - Analysis/Visualisations/Profile/3.4.5_loyalty.price.png
+04 - Analysis/Visualisations/Profile/3.5.1_region_profile.png
+04 - Analysis/Visualisations/Profile/3.5.2_region_orders.png
+04 - Analysis/Visualisations/Profile/3.5.3_region.days.png
+04 - Analysis/Visualisations/Profile/3.5.4_region.hours.png
+04 - Analysis/Visualisations/Profile/3.5.5_region_price.png
+04 - Analysis/Visualisations/Profile/3.6.1_age_profile.png
+04 - Analysis/Visualisations/Profile/3.6.2_age_orders.png
+04 - Analysis/Visualisations/Profile/3.6.3_age_days.png
+04 - Analysis/Visualisations/Profile/3.6.4_age_hours.png
+04 - Analysis/Visualisations/Profile/3.6.5_age_price.png
+04 - Analysis/Visualisations/Profile/3.7.1_income_profile.png
+04 - Analysis/Visualisations/Profile/3.7.2_income_orders.png
+04 - Analysis/Visualisations/Profile/3.7.3_income_days.png
+04 - Analysis/Visualisations/Profile/3.7.4_income_hours.png
+04 - Analysis/Visualisations/Profile/3.7.5_income_price.png
+04 - Analysis/Visualisations/Profile/3.8.1_family_profile.png
+04 - Analysis/Visualisations/Profile/3.8.2_family_orders.png
+04 - Analysis/Visualisations/Profile/3.8.3_family_days.png
+04 - Analysis/Visualisations/Profile/3.8.4_family_hours.png
+04 - Analysis/Visualisations/Profile/3.8.5_family_price.png
+04 - Analysis/Visualisations/Spending/3.1_avg_price_dow.png
+04 - Analysis/Visualisations/Spending/3.2_avg_price_hod.png
+04 - Analysis/Visualisations/Spending/3.3_avg_price_todow_multi.png
+04 - Analysis/Visualisations/Spending/3.4_avg_price_todow_grouped.png
+04 - Analysis/Visualisations/Spending/3.5_avg_price_todow_heat.png
+04 - Analysis/Visualisations/Spending/3.6_avg_price_todow.png
+04 - Analysis/Visualisations/Spending/4.1.2_avg_price_activity_dow.png
+04 - Analysis/Visualisations/Spending/4.1.3_avg_price_activity_hod.png
+04 - Analysis/Visualisations/Spending/4.2.2_avg_price_spending_dow.png
+04 - Analysis/Visualisations/Spending/4.2.3_avg_price_spending_hod.png
+04 - Analysis/Visualisations/Spending/4.3.2_avg_price_frequency_dow.png
+04 - Analysis/Visualisations/Spending/4.3.3_avg_price_frequency_hod.png
+04 - Analysis/Visualisations/Spending/4.4.2_avg_price_loyalty_dow.png
+04 - Analysis/Visualisations/Spending/4.4.3_avg_price_loyalty_hod.png
+04 - Analysis/Visualisations/Spending/4.5.2_avg_price_region_dow.png
+04 - Analysis/Visualisations/Spending/4.5.3_avg_price_region_hod.png
+04 - Analysis/Visualisations/Spending/4.6.2_avg_price_age_dow.png
+04 - Analysis/Visualisations/Spending/4.6.3_avg_price_age_hod.png
+04 - Analysis/Visualisations/Spending/4.7.2_avg_price_income_dow.png
+04 - Analysis/Visualisations/Spending/4.7.3_avg_price_income_hod.png
+04 - Analysis/Visualisations/Spending/4.8.2_avg_price_family_dow.png
+04 - Analysis/Visualisations/Spending/4.8.3_avg_price_family_hod.png
+03 - Scripts/99 - 202409_OGS_06_Integration.ipynb
+02 - Data/Prepared Data/01_cleaned_orders.pkl
+02 - Data/Prepared Data/02_cleaned_products.pkl
+02 - Data/Prepared Data/03_cleaned_departments.pkl
+02 - Data/Prepared Data/04_cleaned_orders_products.pkl
+02 - Data/Prepared Data/05_cleaned_customers.pkl
+02 - Data/Prepared Data/06_merged_dataset.pkl
+02 - Data/Prepared Data/07_modelled_dataset.pkl
