@@ -1,0 +1,18 @@
+.DS_Store
+02 - Data/Original Data/customers.csv
+02 - Data/Original Data/departments.csv
+02 - Data/Original Data/orders.csv
+02 - Data/Original Data/orders_products.csv
+02 - Data/Original Data/products.csv
+02 - Data/Prepared Data/cleaned_customers.pkl
+02 - Data/Prepared Data/cleaned_departments.pkl
+02 - Data/Prepared Data/cleaned_orders.pkl
+02 - Data/Prepared Data/cleaned_orders_products.pkl
+02 - Data/Prepared Data/cleaned_products.pkl
+02 - Data/Prepared Data/merged_dataset.pkl
+02 - Data/Prepared Data/modelled_dataset.pkl
+03 - Scripts/02 - Integration (departments).ipynb
+03 - Scripts/99 - Dataset - Departments.ipynb
+03 - Scripts/99 - Dataset - Orders (EDA).ipynb
+03 - Scripts/99 - Modelling.ipynb
+03 - Scripts/99 - Visualisations.ipynb
